@@ -7,6 +7,7 @@
 
 <!-- <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{SachiniGinige}/count.svg" alt="SachiniGinige: Visitor's Count" /></p> -->
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=SachiniGinige&label=Profile+Views&style=flat" alt="SachiniGinige: Visitor's Count" /></p> -->
 
 <!-- <h4 align="center">Top Languages 👩‍💻:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachiniGinige&langs_count=3&theme=tokyonight&layout=compact" alt="SachiniGinige: Top Langs" /></p> -->
